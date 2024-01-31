@@ -1,0 +1,41 @@
+body {
+    background-color: #f0f8ff;
+}
+
+.navbar {
+    background-color: #4682b4;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.card {
+    margin: 10px;
+}
+
+.card-header {
+    background-color: #add8e6;
+}
+
+.card-body {
+    background-color: #e6f0ff;
+}
+
+.card-title {
+    color: #4682b4;
+}
+
+.btn-primary {
+    background-color: #4682b4;
+    border-color: #4682b4;
+}
+
+.btn-primary:hover {
+    background-color: #5c9bd1;
+    border-color: #5c9bd1;
+}
+
+.alert {
+    margin: 10px;
+}
